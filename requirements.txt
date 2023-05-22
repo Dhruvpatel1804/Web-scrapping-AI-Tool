@@ -1,0 +1,1 @@
+rpaframework==23.0.0
